@@ -1,7 +1,6 @@
 # new111
 
 '''
-
 apiVersion: networking.k8s.io/v1
 kind: Ingress
 metadata:
@@ -25,5 +24,4 @@ spec:
                 name: hvpd-frontend
                 port: 
                   number: 4200
-
-    '''
+     '''
